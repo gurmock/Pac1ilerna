@@ -1,0 +1,13 @@
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\bin\Debug\netcoreapp3.1\PAC_desarrollo_UF1.exe
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\bin\Debug\netcoreapp3.1\PAC_desarrollo_UF1.deps.json
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\bin\Debug\netcoreapp3.1\PAC_desarrollo_UF1.runtimeconfig.json
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\bin\Debug\netcoreapp3.1\PAC_desarrollo_UF1.runtimeconfig.dev.json
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\bin\Debug\netcoreapp3.1\PAC_desarrollo_UF1.dll
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\bin\Debug\netcoreapp3.1\PAC_desarrollo_UF1.pdb
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\obj\Debug\netcoreapp3.1\PAC_desarrollo_UF1.csprojAssemblyReference.cache
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\obj\Debug\netcoreapp3.1\PAC_desarrollo_UF1.AssemblyInfoInputs.cache
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\obj\Debug\netcoreapp3.1\PAC_desarrollo_UF1.AssemblyInfo.cs
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\obj\Debug\netcoreapp3.1\PAC_desarrollo_UF1.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\obj\Debug\netcoreapp3.1\PAC_desarrollo_UF1.dll
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\obj\Debug\netcoreapp3.1\PAC_desarrollo_UF1.pdb
+C:\Users\Bernardo\source\repos\PAC_desarrollo_UF1\obj\Debug\netcoreapp3.1\PAC_desarrollo_UF1.genruntimeconfig.cache

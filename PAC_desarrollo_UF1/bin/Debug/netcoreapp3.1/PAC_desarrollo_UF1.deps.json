@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PAC_desarrollo_UF1/1.0.0": {
+        "runtime": {
+          "PAC_desarrollo_UF1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PAC_desarrollo_UF1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
